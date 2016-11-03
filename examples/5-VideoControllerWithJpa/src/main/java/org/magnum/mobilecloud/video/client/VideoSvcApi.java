@@ -23,6 +23,8 @@ public interface VideoSvcApi {
 	
 	public static final String TITLE_PARAMETER = "title";
 
+	/*/
+
 	// The path where we expect the VideoSvc to live
 	public static final String VIDEO_SVC_PATH = "/video";
 
